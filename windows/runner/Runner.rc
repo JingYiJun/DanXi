@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "io.github.w568w" "\0"
-            VALUE "FileDescription", "A new Flutter project." "\0"
+            VALUE "CompanyName", "com.fduhole.danxi" "\0"
+            VALUE "FileDescription", "dan_xi" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "dan_xi" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2021 io.github.w568w. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2024 com.fduhole.danxi. All rights reserved." "\0"
             VALUE "OriginalFilename", "dan_xi.exe" "\0"
             VALUE "ProductName", "dan_xi" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
